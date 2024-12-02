@@ -2,7 +2,7 @@
 //  SUMaraphonTask1App.swift
 //  SUMaraphonTask1
 //
-//  Created by A on 02.12.2024.
+//  Created by A.J on 02.12.2024.
 //
 
 import SwiftUI
